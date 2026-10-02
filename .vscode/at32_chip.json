@@ -1,0 +1,11 @@
+{
+  "projectName": "daplink_at32",
+  "chip": "AT32F415CBT7",
+  "series": "AT32F415",
+  "productLine": "Value line",
+  "flash": "128KB+18KB",
+  "sram": "32KB",
+  "package": "LQFP48",
+  "frequency": "150MHz",
+  "core": "M4"
+}
