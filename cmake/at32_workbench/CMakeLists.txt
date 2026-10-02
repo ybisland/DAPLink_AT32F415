@@ -24,7 +24,7 @@ set(WK_Application_Src
     ${CMAKE_SOURCE_DIR}/project/src/at32f415_wk_config.c
     ${CMAKE_SOURCE_DIR}/project/src/at32f415_int.c
     ${CMAKE_SOURCE_DIR}/project/src/wk_system.c
-    ${CMAKE_SOURCE_DIR}/startup_at32f415.s
+    ${CMAKE_SOURCE_DIR}/project/startup_at32f415.s
 )
 
 # AT32 Drivers
